@@ -143,7 +143,7 @@ Restricted to this offline instrument.
 
 `attack.py` in the companion archive is the last submitted algorithm (v150), using only the public SDK interface. It will reproduce the **public** throughput behaviour, not the private zero — the private policy is not in the SDK.
 
-Companion archive: to be filled with the GitHub URL after push.
+Companion archive: https://github.com/FinalSunFlower/jed-aas-benchmark-notes
 
 ---
 

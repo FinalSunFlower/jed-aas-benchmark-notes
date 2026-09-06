@@ -8,6 +8,9 @@ This is a **measurement archive**, not a medal writeup. The last submitted
 algorithm is kept as `attack.py`. The official Working Note is
 [`WORKING_NOTE.md`](WORKING_NOTE.md).
 
+- GitHub: https://github.com/FinalSunFlower/jed-aas-benchmark-notes
+- Kaggle notebook: https://www.kaggle.com/code/finalsunflower/aas-working-note-measurement
+
 | Board | Score | Rank / 4187 |
 |-------|------:|------------:|
 | Public `OptimalGuardrail` (best selected) | **92.015** | **311** |
